@@ -1,0 +1,96 @@
+﻿AJ Snow
+(479) 774-1828 | ajsnow2012@gmail.com | Chicago, IL 60657 | https://github.com/AlbertSnows
+________________
+
+
+WORK EXPERIENCE
+Backend Engineer
+Peerspace                                                                                                                                      2022 - 2023
+* Operated in several Clojure and JS microservices, enhancing features and facilitating communication between them
+   * This involved implementing two primary communication protocols. 
+      * Direct calls were handled through restful APIs
+      * Async calls leveraged Google's Pub/Sub architecture typically to persist data in time-insensitive cases
+* Develop and test sprint tasks with feedback from QA on a bi-weekly cycle
+* Interfaced regularly with Kubernetes and Docker systems to deploy software images for testing and software releases
+* Collaborated with and mentored fellow engineers on my team to create comprehensive design documents for backend systems,  typically for new feature development, or explore and understand legacy aspects of existing code 
+* Enhanced and standardized development environments by various initiatives
+   * Updated outdated documentation across various services
+   * Added local dev configs to tightened REPL loops
+   * Implemented testing frameworks 
+   * Standardized deployment methodologies for versioning
+* Optimized, refined, and standardized MongoDB schemas to accommodate new feature development
+* Collaborate with product management on feature design, fracturing, and prioritization
+* Deprecate, accommodate, replace, and redesign legacy components based on feature requirements
+
+
+Software Developer (Rank 2.5)
+Paycom                                                                                                                                 2019 - 2022
+* Perform full stack (JS/PHP) operations, including creating a backend API and writing user-facing scripts
+* Use MVC style framework; software is regulated (ISO 9001:2015, SOX, PII) and has various in-house and third party tools
+* Expand various module features by adding data customization, new workflows, and new api routes
+* Push performance improvements such as code optimization, query aggregation, and ORM optimization (e.g. 100x speeds)
+* Create DB designs based on feature requests and employ various data modeling and software design techniques
+* Redesign the code structure in various parts of my code domain (for example refactoring code from 1k lines to 200) 
+* Collaborated with and mentored new and existing team members on both software domain and new feature designs
+* Attended weekly and (additionally) monthly “Tech Talks” to go over new team, company, or industry software practices
+________________
+
+
+TECHNICAL EXPERIENCE                                                
+Languages
+	
+
+	
+
+	 Skills
+	
+
+	
+
+	 Tools
+	Clojure/Script
+	PHP
+	Javascript
+	 Database Design
+	Web Design
+	Concurrency
+	 Mongo
+	C/C++
+	Java
+	Rust
+	 Small Team Collab
+	Mentoring
+	Software Architecture 
+	 Docker
+	Kotlin
+	C#
+	
+
+	 Project Modeling
+	Algorithm Analysis
+	ETL
+	 mySQL
+	________________
+
+
+EDUCATION 
+Kansas State University (2019)                                                    Bachelor of Science in Computing and Information Science (GPA: 3.8)
+________________
+
+
+PROJECTS
+Personal Website (CLJS, Fulcro)
+	A personal website using Clojurescript and the Fulcro framework for personal use
+	Game Jam Unity Project (C#)
+	Small game built by me in a weekend featuring lightbulb-themed puzzle platforming
+	Modded Minesweeper (Python)
+	Minesweeper but I added a feature to subtract numbers based on flagging
+	Android mobile app (Kotlin/Java)
+	Simple app made from scratch to experiment with the kotlin language on android
+	Snake (Rust)
+	Built snake in rust for exposure and to experiment with rust’s graphical libraries
+	2D Roguelike (Unity, C#)
+	Featured tutorial in the unity framework to build a simple 2D roguelike in the engine
+	
+
+Open source contributions made to Fulcro’s Template here: https://github.com/fulcrologic/fulcro-template
