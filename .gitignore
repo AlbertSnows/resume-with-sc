@@ -1,6 +1,6 @@
-/resumes/latex/AJ_Snow_Resume_G.fdb_latexmk
-resumes/latex/AJ_Snow_Resume_G.fls
-/resumes/latex/AJ_Snow_Resume_G.log
-resumes/latex/AJ_Snow_Resume_G.aux
+*.fls
+*.log
+*.aux
 *.gz
 *.out
+*.fdb_latexmk
