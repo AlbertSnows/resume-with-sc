@@ -1,5 +1,16 @@
 March 12 2026
 
+
+Capital One Accomplishments
+- became the lead for our vulnerability fix initative
+- remove these Skills
+
+
+removed some skills:
+Declarative Programming, Polyglot, Agile, Testing,
+H2, fastapi, SQLalchemy, MongoDB, React,
+
+
 Remove my internship:
 #job-entry("SDET Internship", "June 2018 – December 2018", "Xpanxion")
 - Developed a prototype client project in Java in addition to taking 300+ hours of additional Java internship coursework

@@ -48,13 +48,22 @@ Chicago, IL
 
 #ruled-section("Technical Experience")
 
+*Certifications*: AWS Senior Solutions Architect (Associate)\
 *Languages*: Python, JavaScript, Clojure, PHP, Java, C\#, Rust, C++ \
-*Tools/Frameworks/Libraries*: Node.js, Express, MySQL, MongoDB, Docker, GCP, React, Kubernetes, Spring Boot, JUnit, H2, Git, PostgreSQL, fastapi, SQLalchemy \
-*Skills*: SDLC, Software Architecture, Database Design, API/REST, CI/CD, MVC, Declarative Programming, Microservices, ETL, OOP, Testing, DevOps, Polyglot, Agile
+*Tools*: AWS, Node/Express, MySQL, Docker, GCP, Kubernetes, Spring Boot, JUnit, Git, PostgreSQL\
+*Skills*: Software Architecture, Database Design, API/REST, CI/CD, MVC, Microservices, System Design, ETL, OOP, DevOps
 
 // ── Work Experience ───────────────────────────────────────────────────────────
 
 #ruled-section("Work Experience")
+
+#job-entry(
+  "Senior Software Engineer",
+  "June 2025 – Present",
+  "Capital One",
+)
+- todo
+
 
 #job-entry(
   "Senior Software Engineer",
@@ -64,48 +73,24 @@ Chicago, IL
 - Built and owned search saving API from design doc; 0 reported bugs post-release
 - Developed 250+ tests across 6 services to stabilize code behavior and fix various logging anomalies
 - Maintained Center's Fedramp Moderate compliance for all new code contributions, such as aforementioned API
-- Exceeded expectations in first 3 months of employment; received high praise in first performance review
 - Developed a metrics analysis tool for an AI research project; expected to reduce ingestion cycle from weeks to days
 - Automated manual ETL ingestion workflow, reducing content delivery turnaround from 2 weeks to \~2 days
 - Regularly participate in on-call activities for 30+ active services; e.g. PR review, debugging, and pipeline fixes
 
 #job-entry("Back-End Engineer 3", "April 2022 – June 2023", "Peerspace")
-- Added an external calendar sync feature; resulted in an initial 30% adoption rate and client acclaim (via CX team)
+- Added an external calendar sync feature; reported 30% adoption rate in first two weeks plus client acclaim
 - Developed 2 new technical design docs by collaborating with stakeholders to translate and scope features
 - Added 130+ tests and established new company procedures to integrate TDD into services
-- Added 1 field to the primary DB schema and removed 20+ redundant fields from other MongoDB schemas
+- Added several fields to the core DB schema and removed 20+ redundant fields from other MongoDB schemas
 - Regularly parsed and filtered through \~100k–1M system logs to identify and debug software faults
 
 #job-entry("Software Engineer 2", "June 2019 – March 2022", "Paycom")
-- Led design of a core feature that allowed dynamic job field customization; reported adoption rate of 80% from clients
+- Led design of a core feature that allowed dynamic job field customization; adoption rate of 80% from 10k+ clients
 - Developed software features with a team size of \~17 in a 500k+ LOC domain
 - Reduced development costs by abstracting code design; e.g. refactored code from 1000 to 200 lines
 - Adhered to software and procedural regulations (ISO 9001:2015, SOX, PII) while developing and storing sensitive data
 - Enhanced software services by developing 180+ endpoints for backend APIs, user-facing scripts, and ETL workflows
 - Lowered client wait times up to 100x by optimizing code, aggregating MySQL queries, and tuning ORMs
-
-// ── Education ─────────────────────────────────────────────────────────────────
-
-#ruled-section("Education")
-
-#grid(
-  columns: (1fr, 1fr),
-  [*Kansas State University* _(2019)_],
-  align(right)[_Bachelor of Science in Computer Science (3.7 GPA)_],
-)
-
-
-// ── Projects ──────────────────────────────────────────────────────────────────
-
-#ruled-section("Projects")
-
-#project-entry("Personal Website", "CLJS, Fulcro", "A website using ClojureScript and the Fulcro framework for personal use")
-#project-entry("Spring Boot State Machine", "Java", "Exploratory projects in spring boot; I also implemented pattern matching")
-#project-entry("Order State Machine", "C++", "Example CLI state machine to experiment with core ETL concepts in C++")
-#project-entry("Hotshot", "CLJS", "Basic API to solve a fun math case; utilized Calva for Interactive Programming")
-#project-entry("Game Jam Unity Project", "C#", "Small game built by me in a weekend featuring lightbulb-themed puzzle platforming")
-#project-entry("Thermal Modeling", "Python", "College concurrency project; helped Graduate student parallelize modeling code")
-#project-entry("Utility Functions Library", "", "Code designs that are transferable between languages; inspired by lodash and clojure")
 
 // ── Open Source Contributions ─────────────────────────────────────────────────
 
@@ -123,3 +108,25 @@ Chicago, IL
   link("https://github.com/fulcrologic/fulcro-template/pull/28")[*Fulcro*],
   [| _Added a feature and documentation to the Fulcro template to build and deploy a production-ready uberjar_],
 )
+
+// ── Education ─────────────────────────────────────────────────────────────────
+
+#ruled-section("Education")
+
+#grid(
+  columns: (1fr, 1fr),
+  [*Kansas State University* _(2019)_],
+  align(right)[_Bachelor of Science in Computer Science (3.7 GPA)_],
+)
+
+// ── Projects ──────────────────────────────────────────────────────────────────
+
+#ruled-section("Projects")
+
+#project-entry("Personal Website", "CLJS, Fulcro", "A website using ClojureScript and the Fulcro framework for personal use")
+#project-entry("PM State Machine", "Java", "I created a pattern matching engine in Java")
+#project-entry("Order State Machine", "C++", "Example CLI state machine to experiment with core ETL concepts in C++")
+#project-entry("Hotshot", "CLJS", "Basic API to solve a fun math case; utilized Calva for Interactive Programming")
+#project-entry("Game Jam Unity Project", "C#", "Small game built by me in a weekend featuring lightbulb-themed puzzle platforming")
+#project-entry("Thermal Modeling", "Python", "College concurrency project; helped Graduate student parallelize modeling code")
+#project-entry("Utility Functions Library", "~", "Code designs that are transferable between languages; inspired by lodash and clojure")
