@@ -62,8 +62,12 @@ Chicago, IL
   "June 2025 – Present",
   "Capital One",
 )
-- todo
-
+- Delivered AWS automated cross-team, client-facing processing solution; removed 16 hrs/month of manual tasks
+- Led team security compliance across 12+ services and AWS infra; managed reviews, assignments, and coordination
+- Reduced on-call overhead by 5hrs/month by consolidating alerting configuration and documenting incident runbooks
+- Modernized domain failover process from several hours to minutes and led the quickest region failback to date
+- Led cross-team service migration across the finish line and resolved 3 associated, critical production incidents
+- Team SME for vulnerability remediation, infra migration, API design, and PagerDuty
 
 #job-entry(
   "Senior Software Engineer",
@@ -125,8 +129,6 @@ Chicago, IL
 
 #project-entry("Personal Website", "CLJS, Fulcro", "A website using ClojureScript and the Fulcro framework for personal use")
 #project-entry("PM State Machine", "Java", "I created a pattern matching engine in Java")
-#project-entry("Order State Machine", "C++", "Example CLI state machine to experiment with core ETL concepts in C++")
 #project-entry("Hotshot", "CLJS", "Basic API to solve a fun math case; utilized Calva for Interactive Programming")
 #project-entry("Game Jam Unity Project", "C#", "Small game built by me in a weekend featuring lightbulb-themed puzzle platforming")
-#project-entry("Thermal Modeling", "Python", "College concurrency project; helped Graduate student parallelize modeling code")
 #project-entry("Utility Functions Library", "~", "Code designs that are transferable between languages; inspired by lodash and clojure")
