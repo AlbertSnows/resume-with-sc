@@ -50,7 +50,7 @@ Chicago, IL
 
 *Certifications*: AWS Senior Solutions Architect (Associate)\
 *Languages*: Python, JavaScript, Clojure, PHP, Java, C\#, Rust, C++ \
-*Tools*: AWS, Node/Express, MySQL, Docker, GCP, Kubernetes, Spring Boot, JUnit, Git, PostgreSQL\
+*Tools*: AWS, Node/Express, MySQL, Docker,  Splunk, GCP, New Relic, Kubernetes, Spring Boot, PostgreSQL\
 *Skills*: Software Architecture, Database Design, API/REST, CI/CD, MVC, Microservices, System Design, ETL, OOP, DevOps
 
 // ── Work Experience ───────────────────────────────────────────────────────────
@@ -62,9 +62,9 @@ Chicago, IL
   "June 2025 – Present",
   "Capital One",
 )
-- Delivered AWS automated cross-team, client-facing processing solution; removed 16 hrs/month of manual tasks
+- Delivered cross-team, client-facing AWS automated self-service tool; removed 16 hrs/month of manual tasks
 - Led team security compliance across 12+ services and AWS infra; managed reviews, assignments, and coordination
-- Reduced on-call overhead by 5hrs/month by consolidating alerting configuration and documenting incident runbooks
+- Reduced on-call overhead by 5 hrs/month by consolidating alerting configuration and documenting incident runbooks
 - Modernized domain failover process from several hours to minutes and led the quickest region failback to date
 - Led cross-team service migration across the finish line and resolved 3 associated, critical production incidents
 - Team SME for vulnerability remediation, infra migration, API design, and PagerDuty
