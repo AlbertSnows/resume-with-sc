@@ -39,9 +39,9 @@
 #text(fill: blue, size: 16pt, weight: "bold")[Albert "AJ" Snow]
 #v(-5pt)
 479-774-1828 |
-#link("mailto:ajsnow2012@gmail.com")[#text(fill: blue, weight: "bold")[#underline[ajsnow2012\@gmail.com])]] |
-#link("https://github.com/AlbertSnows")[#text(fill: blue, weight: "bold")[#underline[github.com/AlbertSnows])]] |
-#link("https://savyb.fly.dev/")[#text(fill: blue, weight: "bold")[#underline[savyb.fly.dev])]] |
+#link("mailto:ajsnow2012@gmail.com")[#text(fill: blue, weight: "bold")[#underline[ajsnow2012\@gmail.com]]] |
+#link("https://github.com/AlbertSnows")[#text(fill: blue, weight: "bold")[#underline[github.com/AlbertSnows]]] |
+#link("https://savyb.fly.dev/")[#text(fill: blue, weight: "bold")[#underline[savyb.fly.dev]]] |
 Chicago, IL
 
 // ── Technical Experience ──────────────────────────────────────────────────────
