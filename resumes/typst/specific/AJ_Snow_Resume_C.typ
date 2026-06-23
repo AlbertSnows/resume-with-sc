@@ -82,7 +82,7 @@ Chicago, IL
 - Regularly participate in on-call activities for 30+ active services; e.g. PR review, debugging, and pipeline fixes
 
 #job-entry("Back-End Engineer 3", "April 2022 – June 2023", "Peerspace")
-- Added an external calendar sync feature; reported 30% adoption rate in first two weeks plus client acclaim
+- Added an external calendar sync feature in clojure API; reported 30% adoption rate in first two weeks
 - Developed 2 new technical design docs by collaborating with stakeholders to translate and scope features
 - Added 130+ tests and established new company procedures to integrate TDD into services
 - Added several fields to the core DB schema and removed 20+ redundant fields from other MongoDB schemas
@@ -131,4 +131,3 @@ Chicago, IL
 #project-entry("PM State Machine", "Java", "I created a pattern matching engine in Java")
 #project-entry("Hotshot", "CLJS", "Basic API to solve a fun math case; utilized Calva for Interactive Programming")
 #project-entry("Game Jam Unity Project", "C#", "Small game built by me in a weekend featuring lightbulb-themed puzzle platforming")
-#project-entry("Utility Functions Library", "~", "Code designs that are transferable between languages; inspired by lodash and clojure")

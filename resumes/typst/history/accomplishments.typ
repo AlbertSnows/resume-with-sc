@@ -19,3 +19,4 @@ Remove my internship:
 
 #project-entry("Thermal Modeling", "Python", "College concurrency project; helped Graduate student parallelize modeling code")
 #project-entry("Order State Machine", "C++", "Example CLI state machine to experiment with core ETL concepts in C++")
+#project-entry("Utility Functions Library", "~", "Code designs that are transferable between languages; inspired by lodash and clojure")

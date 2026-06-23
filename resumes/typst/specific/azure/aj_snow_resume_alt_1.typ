@@ -1,5 +1,5 @@
-// AJ Snow — General Resume
-// Converted from LaTeX to Typst
+// AJ Snow — FedEx Technical Architect
+// Tailored for FedEx Principal Architect (Data & Cloud)
 
 #set page(paper: "us-letter", margin: (x: 1cm, y: 1cm))
 #set text(size: 11pt)
@@ -47,10 +47,10 @@ Chicago, IL
 
 #ruled-section("Technical Experience")
 
-*Certifications*: AWS Solutions Architect (Associate)\
-*Languages*: Python, JavaScript, Clojure, PHP, Java, C\#, Rust, C++ \
-*Tools*: AWS, Node/Express, MySQL, Docker,  Splunk, GCP, New Relic, Kubernetes, Spring Boot, PostgreSQL\
-*Skills*: Software Architecture, Database Design, API/REST, CI/CD, MVC, Microservices, System Design, ETL, OOP, DevOps
+*Certifications*: AWS Solutions Architect – Associate\
+*Languages*: Python, Java, JavaScript, Clojure, PHP, C\#, Rust, C++ \
+*Tools*: AWS, GCP, Docker, Kubernetes, PostgreSQL, MySQL, Splunk, New Relic\
+*Skills*: Software Architecture, System Design, API/REST, CI/CD, Microservices, ETL, DevOps, Database Design
 
 // ── Work Experience ───────────────────────────────────────────────────────────
 
@@ -63,27 +63,28 @@ Chicago, IL
 )
 - Delivered cross-team, client-facing AWS automated self-service tool; removed 16 hrs/month of manual tasks
 - Led team security compliance across 12+ services and AWS infra; managed reviews, assignments, and coordination
-- Reduced on-call overhead by 12 hrs/month by identifying and resolving gaps in our nightly job processing system
-- Resolved 3 production incidents related to improper failover for a software consolidation initiative
+- Reduced on-call overhead by 5 hrs/month by consolidating alerting configuration and documenting incident runbooks
 - Modernized domain failover process from several hours to minutes and led the quickest region failback to date
-- "Simplified on-call rotation and coordination by consolidating alerting across services to a single system
+- Led cross-team service migration across the finish line and resolved 3 associated, critical production incidents
+- Team SME for vulnerability remediation, infra migration, API design, and PagerDuty
+
 #job-entry(
   "Senior Software Engineer",
   "Feb 2024 – June 2025",
   "Center for Translational Data Science (CTDS) at University of Chicago",
 )
-- Built and owned search saving API from design doc; 0 reported bugs post-release
-- Developed 250+ tests across 6 services to stabilize code behavior and fix various logging anomalies
-- Maintained Center's Fedramp Moderate compliance for all new code contributions, such as aforementioned API
-- Developed a metrics analysis tool for an AI research project; expected to reduce ingestion cycle from weeks to days
-- Automated manual ETL ingestion workflow, reducing content delivery turnaround from 2 weeks to \~2 days
-- Regularly participate in on-call activities for 30+ active services; e.g. PR review, debugging, and pipeline fixes
+- Architected document ingestion and ETL pipeline end-to-end; reduced delivery turnaround from 2 weeks to \~2 days
+- Built AI model output evaluation framework for a research project; reduced ingestion cycle from weeks to days
+- Designed search API from requirements through production; 0 reported bugs post-release
+- Maintained FedRAMP Moderate compliance across all new cloud-hosted code contributions
+- Developed 250+ tests across 6 services to stabilize behavior and resolve logging anomalies
+- Supported on-call operations for 30+ active services; PR review, debugging, and pipeline triage
 
 #job-entry("Back-End Engineer 3", "April 2022 – June 2023", "Peerspace")
-- Added an external calendar sync feature; reported 30% adoption rate in first two weeks plus client acclaim
-- Developed 2 new technical design docs by collaborating with stakeholders to translate and scope features
-- Added 130+ tests and established new company procedures to integrate TDD into services
-- Added several fields to the core DB schema and removed 20+ redundant fields from other MongoDB schemas
+- Added an external calendar sync integration; reported 30% adoption rate in first two weeks
+- Authored 2 technical design docs; collaborated with stakeholders to define scope and architecture
+- Added 130+ tests and established company-wide TDD procedures across services
+- Designed schema extensions and removed 20+ redundant fields from MongoDB; improved data model integrity
 - Resolved dozens of critical software faults through log analysis across ~100k–1M daily events in GCP
 
 #job-entry("Software Engineer 2", "June 2019 – March 2022", "Paycom")
