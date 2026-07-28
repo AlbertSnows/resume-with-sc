@@ -5,3 +5,5 @@
 *.out
 *.fdb_latexmk
 AJ_Snow_Resume_G.synctex(busy)
+resume/typst/specific
+specific
