@@ -58,16 +58,16 @@ Chicago, IL
 #ruled-section("Work Experience")
 
 #job-entry(
-  "Senior Software Engineer",
+  "Senior Software Engineer 2",
   "June 2025 – Present",
   "Capital One",
 )
 - Delivered cross-team, client-facing AWS Lambda tool with CloudWatch; removed 16 hrs/month of manual tasks
-- Led team security compliance across 12+ services and AWS infra; managed reviews, assignments, and coordination
-- Reduced on-call overhead by 5 hrs/month by consolidating alerting configuration and documenting incident runbooks
+- Owned security compliance across 30+ services, passing every audit with zero critical findings
+- Cut on-call burden by 8-10 hrs/month by reducing false positives, consolidating page structure, and fixing root causes
 - Modernized domain failover process from several hours to minutes and led the quickest region failback to date
 - Led cross-team service migration across the finish line and resolved 3 associated, critical production incidents
-- Team SME for vulnerability remediation, infra migration, API design, and PagerDuty
+- Migrated core service to AWS Secrets Manager, eliminating a persistent security vulnerability with zero incidents
 
 #job-entry(
   "Senior Software Engineer",
