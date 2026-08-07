@@ -49,9 +49,9 @@ Chicago, IL
 #ruled-section("Technical Experience")
 
 *Certifications*: AWS Senior Solutions Architect (Associate)\
-*Languages*: Python, JavaScript, Clojure, PHP, Java, C\#, Rust, C++ \
-*Tools*: AWS, Node/Express, MySQL, Docker,  Splunk, GCP, New Relic, Kubernetes, Spring Boot, PostgreSQL\
-*Skills*: Software Architecture, Database Design, API/REST, CI/CD, MVC, Microservices, System Design, ETL, OOP, DevOps
+*Languages*: Python, JavaScript, Java, Clojure, PHP, Rust, C\#, C++ \
+*Tools*: AWS, Node/Express, MySQL, Docker,  Splunk, GCP, New Relic, PostgreSQL, Kubernetes, Spring Boot\
+*Skills*: Software Architecture, Database Design, API/REST, CI/CD, MVC, Microservices, System Design, ETL, OOP, DevOps, Backend, Full-Stack, Leadership, Technical Problem Solving
 
 // ── Work Experience ───────────────────────────────────────────────────────────
 
@@ -131,4 +131,3 @@ Chicago, IL
 #project-entry("PM State Machine", "Java", "I created a pattern matching engine in Java")
 #project-entry("Hotshot", "CLJS", "Basic API to solve a fun math case; utilized Calva for Interactive Programming")
 #project-entry("Game Jam Unity Project", "C#", "Small game built by me in a weekend featuring lightbulb-themed puzzle platforming")
-#project-entry("Utility Functions Library", "~", "Code designs that are transferable between languages; inspired by lodash and clojure")

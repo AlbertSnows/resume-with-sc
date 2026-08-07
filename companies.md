@@ -3,3 +3,4 @@
 - Astera Labs
 - Optiver
 - Okta
+- Deloitte
