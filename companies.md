@@ -4,3 +4,5 @@
 - Optiver
 - Okta
 - Deloitte
+- MassMutual
+- Consumer Reports

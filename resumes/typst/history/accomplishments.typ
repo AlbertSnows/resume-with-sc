@@ -4,6 +4,7 @@ March 12 2026
 Capital One Accomplishments
 - became the lead for our vulnerability fix initative
 - remove these Skills
+- (parked, not resume-worthy on its own) Accelerated production incident resolution by pairing AI-generated hypotheses with log-based verification, catching and correcting AI misattributions before they became false leads
 
 
 removed some skills:
